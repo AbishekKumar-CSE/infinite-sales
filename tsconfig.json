@@ -27,7 +27,7 @@
       }
     ]
   },
-  "extends": "typescript-config/nextjs.json",
+  // "extends": "typescript-config/nextjs.json",
   "include": [
     "next-env.d.ts",
     "additional.d.ts",
