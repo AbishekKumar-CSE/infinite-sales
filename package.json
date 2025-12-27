@@ -1,6 +1,7 @@
 {
   "name": "iso",
   "version": "7.6.2",
+  "packageManager": "pnpm@9.1.4",
   "description": "A nextjs template to build dashboard",
   "private": true,
   "scripts": {
